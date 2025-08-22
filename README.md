@@ -1,0 +1,7 @@
+# JavaScript Learning Journey
+
+This repo contains my daily practice drills and mini-projects while learning JavaScript.
+
+## Progress
+- Day 1: Variables, sum program, even/odd checker, mini-project (Guess the Number game)
+- Day 2: Loops, factorial, fizzbuzz, mini-project (Multiplication Table Generator)
