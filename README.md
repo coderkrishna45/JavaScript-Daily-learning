@@ -6,3 +6,5 @@ This repo contains my daily practice drills and mini-projects while learning Jav
 - Day 1: Variables, sum program, even/odd checker, mini-project (Guess the Number game)
 - Day 2: Loops, factorial, fizzbuzz, mini-project (Multiplication Table Generator)
 - Day 3: Studied All Type of Functions and a mini project of calculating vowel , factorial , Odd-Even
+
+   
